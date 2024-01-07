@@ -8,14 +8,14 @@ Hey there! Welcome to this hands-on project, where we will be focused on digital
 - <b>Virtual Lab Access</b>: Since this was a school project a virtual lab with the autopsy software was provided by my school. 
 - <b>Autopsy Software</b>: This is a digital forensics platform designed for analyzing and investigating digital evidence on storage devices. It is an open-source graphical interface that simplifies the process of conducting forensic examinations on various file systems. 
 
-<h2>🔄💻 Project Highlights:</h2>
+<h2>🌟 Project Highlights:</h2>
 
 - <b>Utilizing Autopsy for in-depth analysis of evidence.</b>
 - <b>Uncovering clues on John Smith's office laptop.</b>
 - <b>Creating a comprehensive incident report for senior management.</b>
 
 
-<h2> Step-by-step Guide on how this project will proceed.
+<h2>📝 Step-by-step Guide on how this project will proceed.
 In the first section, I will describe all the steps taken in the Autopsy software to create the forensic system case file. Provide screenshots of these steps to have a visual understanding of what I am doing.
   
 - <b>📝 1: The first step that we would take is to open the Autopsy app and click on “New Case” to create a new case file.</b>
