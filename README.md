@@ -15,8 +15,8 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 - <b>Creating a comprehensive incident report for senior management.</b>
 
 
-<h2> Step by Step Guide how this project went.
-
+<h2> Step-by-step Guide on how this project will proceed.
+In the first section, I will describe all the steps taken in the Autopsy software to create the forensic system case file. Provide screenshots of these steps to have a visual understanding of what I am doing.
 - <b> 1: The first step that we would take is to open the Autopsy app and click on “New Case” to create a new case file.</b>
 <img width="456" alt="Screenshot 2024-01-07 013357" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/ff989f70-9790-40c8-bc47-9214673ef533">
 
@@ -30,6 +30,7 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 - <b>📝 4: If everything was done correctly, this page would display meaning we are ready to analyze our data source. </b>
 <img width="409" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/5fdda5bb-50f1-4a9c-af5b-c4fbdfea8cc7">
 
+The second section is to then describe all steps taken in Autopsy to identify potential evidence, including data files, deleted data files, directories, or drive partitions.
 
 - <b>📝 5:Now we begin analyzing the data sources for relevant evidence for our investigation. The first set of data that I discovered was the numerous amounts of images relating to the oil industry. </b>
 <img width="441" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/51a301f4-1aad-4bf5-9971-cb77b6289d0d">
@@ -42,7 +43,10 @@ means that the employee was trying to cover his tracks by getting rid of them.  
 <img width="619" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/568e1a0e-6a55-461b-bfad-6261e7bfa326">
 <img width="700" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/096b526c-89ff-435a-9bfb-6e177a7a940c">
 
+In the last section, I will summarize the findings that I identified during your investigation and the conclusions I made regarding the suspect and the collected evidence.
 
+- <b>📝 7: Under deleted files, another set of documents that are relevant to our investigation was found. This 
+means that the employee was trying to cover his tracks by getting rid of them.  I also found an email file that looks to be encrypted or obscured, preventing anyone from knowing the contents of the email. I believe the employee is hiding important information that could lead to solving this investigation</b>
 <h2>💡 key lessons and takeaways from this project:</h2>
 I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
 
