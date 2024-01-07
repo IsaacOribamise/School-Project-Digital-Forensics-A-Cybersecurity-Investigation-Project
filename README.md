@@ -17,7 +17,9 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 
 <h2> Step-by-step Guide on how this project will proceed.
 In the first section, I will describe all the steps taken in the Autopsy software to create the forensic system case file. Provide screenshots of these steps to have a visual understanding of what I am doing.
+  
 - <b> 1: The first step that we would take is to open the Autopsy app and click on “New Case” to create a new case file.</b>
+
 <img width="456" alt="Screenshot 2024-01-07 013357" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/ff989f70-9790-40c8-bc47-9214673ef533">
 
 - <b>2: After the creation of a new case file, the next step is to fill in the case information for the new case file. First, by giving it a name (I named mine 'JohnSmith') and saved it in a directory which I saved in the Evidence file.</b>
@@ -44,9 +46,32 @@ means that the employee was trying to cover his tracks by getting rid of them.  
 <img width="700" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/096b526c-89ff-435a-9bfb-6e177a7a940c">
 
 In the last section, I will summarize the findings that I identified during your investigation and the conclusions I made regarding the suspect and the collected evidence.
+Before I draw any conclusions, I want to prove for a fact that the evidence that I discovered does indeed, 
+prove that the employee did violate the company’s policy.
 
-- <b>📝 7: Under deleted files, another set of documents that are relevant to our investigation was found. This 
-means that the employee was trying to cover his tracks by getting rid of them.  I also found an email file that looks to be encrypted or obscured, preventing anyone from knowing the contents of the email. I believe the employee is hiding important information that could lead to solving this investigation</b>
+- <b>📝 8: The documents found from the employee 'deleted files' are 100% proprietary data that he had no 
+right or authorization to access them. Below are some examples of the proprietary data that were 
+deleted.</b>
+<img width="620" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/30fc07bb-69e3-4539-a232-8c1261d60c79">
+<img width="619" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/b7b8db88-e626-4907-ad06-fd2407dcb7bf">
+<img width="629" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/afa32d0d-02b4-43fa-84a2-680d55646348">
+
+- <b>📝 8: And it looks like he was trying to sell the proprietary data anonymously through the use of Bitcoin, 
+which is another violation.</b>
+<img width="750" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/2df1c121-06e6-45bb-a269-1bd7dc0fa34d">
+
+- <b>📝 9: Lastly, l extracted some of the documents relevant to the invesƟgaƟon for further analysis.</b>
+<img width="749" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/8421fb30-8ee2-4401-a1fe-570dc539c4cb">
+
+To wrap this invesƟgaƟon up, the team and I compiled a detailed report of our findings and 
+important evidence. The invesƟgaƟon of the employee’s computer image reveals facts and signs that he 
+violated the company rules through unauthorized access to confidenƟal information. Additionally, the 
+employee was looking into ways to make anonymous transacƟons using Bitcoin. This means he might 
+have been trying to sell the company's confidenƟal documents. So, in conclusion, the employee did 
+violate the company’s rules
+
+
+
 <h2>💡 key lessons and takeaways from this project:</h2>
 I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
 
