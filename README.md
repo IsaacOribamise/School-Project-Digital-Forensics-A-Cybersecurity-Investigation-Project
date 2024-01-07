@@ -1,4 +1,4 @@
-# School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project
+# School Project: Digital Forensics- A Cybersecurity Investigation Project
 
 <h2>📚 Introduction</h2>
 Hey there! Welcome to this hands-on project, where we will be focused on digital forensics and how it plays a role in ensuring cybersecurity. For this project, we would use the Autopsy tool to investigate a suspected breach of company policy. It is a scenario-based project about the case of John Smith, a mechanical engineer at an oil company, suspected of unauthorized access to and dissemination of proprietary data. As a member of the investigative team, my role is to analyze digital evidence extracted from Mr. Smith's office laptop. The goal is to provide senior management with a comprehensive incident report, shedding light on potential policy violations and explaining the critical importance of cybersecurity measures in protecting organizational assets.
