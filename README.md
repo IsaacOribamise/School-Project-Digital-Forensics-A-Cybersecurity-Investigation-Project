@@ -35,8 +35,13 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 <img width="441" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/51a301f4-1aad-4bf5-9971-cb77b6289d0d">
 
 - <b>📝 6:Then I discovered some relevant PDFs that could be used for the investigation. The title of the documents led to the suspicion that the employee was dealing in shady activities.  </b>
+<img width="507" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/938ca43f-7a2b-4a11-ba9c-d475d828ff86">
 
-- <b>📝 5:Now we begin analyzing the data sources for relevant evidence for our investigation. The first set of data that I discovered was the numerous amounts of images relating to the oil industry. </b>
+- <b>📝 7: Under deleted files, another set of documents that are relevant to our investigation was found. This 
+means that the employee was trying to cover his tracks by getting rid of them.  I also found an email file that looks to be encrypted or obscured, preventing anyone from knowing the contents of the email. I believe the employee is hiding important information that could lead to solving this investigation</b>
+<img width="619" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/568e1a0e-6a55-461b-bfad-6261e7bfa326">
+<img width="700" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/096b526c-89ff-435a-9bfb-6e177a7a940c">
+
 
 <h2>💡 key lessons and takeaways from this project:</h2>
 I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
