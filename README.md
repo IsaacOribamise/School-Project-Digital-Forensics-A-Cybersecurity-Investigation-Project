@@ -9,26 +9,34 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 - <b>Autopsy Software</b>: This is a digital forensics platform designed for analyzing and investigating digital evidence on storage devices. It is an open-source graphical interface that simplifies the process of conducting forensic examinations on various file systems. 
 
 <h2>🔄💻 Project Highlights:</h2>
+
 - <b>Utilizing Autopsy for in-depth analysis of digital evidence.</b>
 - <b>Uncovering clues on John Smith's office laptop.</b>
 - <b>Creating a comprehensive incident report for senior management.</b>
 
 
-<h2>[📝 Step by Step Guide To Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.]
+<h2> Step by Step Guide how this project went.
 
-- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=BwAD8w05D5A&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=1&pp=iAQB)</b>
+- <b> 1: The first step that we would take is to open the Autopsy app and click on “New Case” to create a new case file.</b>
+<img width="456" alt="Screenshot 2024-01-07 013357" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/ff989f70-9790-40c8-bc47-9214673ef533">
 
-- <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
+- <b>2: After the creation of a new case file, the next step is to fill in the case information for the new case file. First, by giving it a name (I named mine 'JohnSmith') and saved it in a directory which I saved in the Evidence file.</b>
+<img width="454" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/ba91f22d-3ede-4d84-b1e5-30ecfa95e67f">
 
-- <b>📝 STEP 2: Download and exact all the other tools (Kali Linux, Windows server 2019, Windows 11 OS, and Metasploitable). Lastly, you can also put everything in a designated folder to make it look organized.</b>
-<img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/a3fb8b1d-6346-4719-9546-4648e7d757f2">
+- <b>3: Now that our new case file is set, we select a host based on our data source name and click 'Next' to proceed.</b>
+<img width="451" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/b413e602-46fc-41d0-81e0-0896b7a18687">
 
-- <b>📝 STEP 3: We are going to create a VM for each tool. > Open VirtualBox and click on "New" to create a new virtual machine for each tool. Repeat the process for each tool. You can check out the video I linked above for a more detailed process</b>
-<img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/9662e756-7447-45a9-a83b-147d61dacb82">
 
-- <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
+- <b>📝 4: If everything was done correctly, this page would display meaning we are ready to analyze our data source. </b>
+<img width="409" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/5fdda5bb-50f1-4a9c-af5b-c4fbdfea8cc7">
 
-- <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project] </b>
+
+- <b>📝 5:Now we begin analyzing the data sources for relevant evidence for our investigation. The first set of data that I discovered was the numerous amounts of images relating to the oil industry. </b>
+<img width="441" alt="image" src="https://github.com/IsaacOribamise/School-Project-Digital-Forensics-A-Cybersecurity-Investigation-Project/assets/154943957/51a301f4-1aad-4bf5-9971-cb77b6289d0d">
+
+- <b>📝 6:Then I discovered some relevant PDFs that could be used for the investigation. The title of the documents led to the suspicion that the employee was dealing in shady activities.  </b>
+
+- <b>📝 5:Now we begin analyzing the data sources for relevant evidence for our investigation. The first set of data that I discovered was the numerous amounts of images relating to the oil industry. </b>
 
 <h2>💡 key lessons and takeaways from this project:</h2>
 I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
