@@ -5,18 +5,13 @@ Hey there! In this hands-on project, I will be about digital forensics and how i
 
 <h2>🛠️ Tools That I Used</h2>
 
-- <b>Virtual Lab Access</b>: Since this was a school project the virtual lab ass was provided by my school. 
+- <b>Virtual Lab Access</b>: Since this was a school project a virtual lab with the autopsy software was provided by my school. 
 - <b>Autopsy Software</b>: This is a digital forensics platform designed for analyzing and investigating digital evidence on storage devices. It is an open-source graphical interface that simplifies the process of conducting forensic examinations on various file systems. 
 
-
-
-<h2>🔄💻 Required System Requirement: I use an HP ENVY x360 Laptop (Not the best but it does the job)</h2>
-
-- <b>[🧠 CPU: 13th Gen Intel(R) Core(TM) i7-1355U 1.70 GHz (Anything higher than this will work)]</b>
-- <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
-- <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
-- <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
-- <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
+<h2>🔄💻 Project Highlights:</h2>
+- <b>Utilizing Autopsy for in-depth analysis of digital evidence.</b>
+- <b>Uncovering clues on John Smith's office laptop.</b>
+- <b>Creating a comprehensive incident report for senior management.</b>
 
 
 <h2>[📝 Step by Step Guide To Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.]
